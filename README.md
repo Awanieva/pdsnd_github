@@ -15,4 +15,6 @@ The bikeshare.py is a project on bikeshare in three state chicago, washington an
 Atom, Visual Studio Code, Python, Git
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Chisom Promise,
+Udacity FAQ,
+My peeps in the Slack Channel
