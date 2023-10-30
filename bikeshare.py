@@ -59,7 +59,7 @@ def get_filters():
     return city, month, day
 
 
-# Loading the Month and Day 
+# Loading the Month and Day
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
@@ -95,7 +95,7 @@ def load_data(city, month, day):
 
 
 
-
+# Function to display time statistics
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
@@ -123,7 +123,7 @@ def time_stats(df):
     print('-'*40)
 
 
-
+# Function to display station statistics
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 
@@ -163,7 +163,7 @@ def station_stats(df):
 
 
 
-
+# Function to display trip duration statistics
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
@@ -182,6 +182,7 @@ def trip_duration_stats(df):
     print('-'*40)
 
 
+# Function to display user statistics
 def user_stats(df):
     """Displays statistics on bikeshare users."""
 
