@@ -9,7 +9,7 @@ I used this repository to solidify my skills in forking , cloning , and contribu
 Post Your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+The bikeshare.py is a project on bikeshare in three state chicago, washington and New_York_city. In this project, a Python script (bikeshare.py) is used to explore and extract insights from a dataset related to bike-sharing systems. The dataset typically contains information such as bike rental durations, locations, user types, and other relevant data points.
 
 ### Files used
 Include the files used
